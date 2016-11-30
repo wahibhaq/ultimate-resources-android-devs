@@ -89,6 +89,7 @@ _Note : This is an on-going list and I will keep updating it ! Feel free to comm
 * [Styling Android](https://blog.stylingandroid.com)
 * [AndroidDev Reddit](https://twitter.com/androiddevfeed)
 * [Novoda Blog](https://www.novoda.com/blog/)
+* [Future Studio Blog](https://futurestud.io/blog) (Retrofit, Picasso, Glide, Gson tutorials)
 
 #### Podcasts
 
