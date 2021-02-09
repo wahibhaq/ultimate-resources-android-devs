@@ -242,6 +242,7 @@ _Note : This is an on-going list and I will keep updating it ! Feel free to comm
 * ##### Database
   * [Comparison popular ORM libraries](https://github.com/Rexee/AndroidDatabaseLibraryComparison) : A test between a few of the popular libraries running a speed test on how fast they load and save data.
   * [greenDAO](http://greenrobot.org/greendao/) : Android ORM for your SQLite database.
+  * [Databunker](https://databunker.org/) : Databunker is an address book on steroids for storing personal data. GDPR and encryption are out of the box.
 
 * ##### Simplifying Communication between building blocks
   * [EventBus](https://github.com/greenrobot/EventBus) : Android optimized event bus that simplifies communication between Activities, Fragments, Threads, Services, etc. Less code, better quality. There's a nice [comparison](https://github.com/greenrobot/EventBus/blob/master/COMPARISON.md) between Otto and EventBus.
